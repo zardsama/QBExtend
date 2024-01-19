@@ -1,6 +1,6 @@
 <?php
 
-namespace Zardsama\QBExtend;
+namespace zardsama\QBExtend;
 
 use Pecee\Pixie\Connection as DBcon;
 

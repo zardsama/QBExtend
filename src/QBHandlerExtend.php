@@ -1,6 +1,6 @@
 <?php
 
-namespace Zardsama\QBExtend;
+namespace zardsama\QBExtend;
 
 use Pecee\Pixie\QueryBuilder\QueryBuilderHandler;
 use Pecee\Pixie\Exception;
