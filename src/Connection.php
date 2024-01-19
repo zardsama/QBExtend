@@ -11,4 +11,9 @@ Class Connection extends DBcon {
         return new QBHandlerExtend($this);
     }
 
+    public function __destruct()
+    {
+        // 세션용으로 사용하도록 close 하지 않도록 처리
+    }
+
 }
